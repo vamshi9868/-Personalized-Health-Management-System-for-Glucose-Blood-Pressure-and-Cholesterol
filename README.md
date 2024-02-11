@@ -44,6 +44,8 @@ To develop a personalized health management system that dynamically adjusts insu
 ![Screenshot 2024-02-11 145315](https://github.com/vamshi9868/kratin-assignment/assets/77679218/cdcf1b75-be55-4c59-bba1-ce4f72f9a43e)
 ![Screenshot 2024-02-11 145332](https://github.com/vamshi9868/kratin-
 assignment/assets/77679218/1609f25e-8329-411e-b31d-6552b59218b0)
+![Screenshot 2024-02-11 145332](https://github.com/vamshi9868/kratin-assignment/assets/77679218/2cfdefc3-21f5-4396-be24-c5fbd78815ab)
+
 ![Screenshot 2024-02-11 145510](https://github.com/vamshi9868/kratin-assignment/assets/77679218/f88eea5d-987b-4bcd-a5c8-a19325dae770)
 
 
