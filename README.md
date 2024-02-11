@@ -36,6 +36,9 @@ To develop a personalized health management system that dynamically adjusts insu
    - Integrate data from glucose monitors, blood pressure cuffs, and cholesterol monitors into the system.
    - Utilize machine learning algorithms to analyze user data and identify patterns, correlations, and predictive insights.
    - Continuously refine the system based on user feedback and evolving health data to improve accuracy and effectiveness.
+![Screenshot 2024-02-11 145112](https://github.com/vamshi9868/kratin-assignment/assets/77679218/50104008-369c-47fa-9f83-846b1ed104f4)
+
+
 
 **Conclusion:**
 By developing a personalized health management system that dynamically adjusts insulin dosage based on glucose levels and recommends medications for managing blood pressure and cholesterol, individuals can achieve better control over their health and reduce the risk of complications associated with diabetes, hypertension, and hypercholesterolemia. This innovative solution empowers individuals to take proactive steps towards optimizing their health and well-being.
